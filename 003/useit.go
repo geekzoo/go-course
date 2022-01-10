@@ -2,8 +2,9 @@ package main
 
 import (
 	"fmt"
-	lesson "geeky/rex_lessons/001"
-	mymath "geeky/rex_lessons/002"
+
+	lesson "github.com/geekzoo/go-course/001"
+	mymath "github.com/geekzoo/go-course/002"
 )
 
 func main() {
